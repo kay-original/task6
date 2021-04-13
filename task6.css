@@ -1,0 +1,23 @@
+ul{
+  margin: 0;
+  padding: 0;
+}
+.content-width{
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.slick{
+  margin: 50px auto;
+  width: 100%;
+}
+.slick img{
+  height: auto;
+  width: 100%;
+}
+.slick .slick-prev::before,
+.slick .slick-next::before {
+    color: black;
+}
+ 
+
